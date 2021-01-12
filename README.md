@@ -8,7 +8,7 @@ Adivinhe o número secreto no chapéu do mágico. Se sua estimativa for muito al
     | Nível   | faixa de números  |
     | fácil   | 1 a 50            |
     | Normal  | 1 a 100           |
-    |Difícil  | -500 a 500        |
+    | Difícil  | -500 a 500       |
     -------------------------------
 3. O computador escolhe um número aleatório dependendo do nível escolhido.
    Aprensa o número de chances que o jogador tem para adivinhar o número.
